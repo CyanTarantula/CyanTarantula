@@ -8,7 +8,6 @@
   
 - 🌱 I’m currently learning **Django**  
   
-- 👨‍💻 All of my projects are available at [https://cyantarantula.github.io/My-Portfolio/](https://cyantarantula.github.io/My-Portfolio/)  
   
 - 📫 Reach me at **yasbh2002@gmail.com**  
   
@@ -18,7 +17,7 @@
 <p align="left">  
 <a href="https://linkedin.com/in/yashbhargava02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashbhargava02" height="30" width="40" /></a>  
 <a href="https://codeforces.com/profile/cyantarantula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cyantarantula" height="30" width="40" /></a>  
-<a href="https://www.codechef.com/users/yashbhargava02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashbhargava02" height="30" width="40" /></a>  
+<a href="https://www.codechef.com/users/yashbhargava02" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="yashbhargava02" height="30" width="30" style="fill: green;" /></a>  
 </p>  
   
 <h3 align="left">Languages and Tools:</h3>  
@@ -46,9 +45,6 @@
  </a> 
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
- </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
  </a> 
  </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyantarantula&show_icons=true&locale=en&layout=compact" alt="cyantarantula" /></p>  
