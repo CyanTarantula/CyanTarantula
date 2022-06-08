@@ -11,7 +11,7 @@
   
 - 📫 Reach me at **yasbh2002@gmail.com**  
   
-- 📄 Know about my experiences - [Resume](https://docs.google.com/viewerng/viewer?url=https://github.com/CyanTarantula/resume/raw/main/Resume.pdf+)  
+- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1r2um31IpmQmaBr1p-NkbE7ywfAoqhuEK/view?usp=sharing)  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
